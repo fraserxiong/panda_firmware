@@ -28,7 +28,7 @@ Tip: You might need help from a friend or family to press the Pedal when taking 
          4. It is recommended that you print it out and fill in the value in writing so you don't mess up what firmware you flash when you switch around the program on your computer.
          5. A PDF version is in this repo.
       7. You only need to connect the connector you made in the preparation section. No comma device is needed.
-   2. Measurement:
+   2. Measurement (Using multimeter):
       1. Measure the voltage according to the Google Sheets baseline measurement section.
       2. A picture reference of where to measure is given in the Google Sheets.
 2. Flash The firmware and measure the voltage with the Pedal installed.
@@ -52,7 +52,7 @@ Tip: You might need help from a friend or family to press the Pedal when taking 
          7. BaseX110 (Base value x 1.10)
          8. BaseX95 (Base value x 0.95)
          9. BaseX90 (Base value x 0.90)
-   3. Measurement:
+   3. Measurement (Using multimeter):
       1. Connect The Pedal after you flash the firmware.
       2. Measure the voltage according to Google Sheets. Please ensure you put the value in the correct section for the firmware.
       3. A picture reference of where to measure is given in the Google Sheets.

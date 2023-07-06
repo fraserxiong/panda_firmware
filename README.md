@@ -12,14 +12,14 @@ Tip: You might need help from a friend or family to press the Pedal when taking 
          1. You will see the label on the pedal PCB board in the middle of two sides of the connector. 
          2. Write them down on the cardboard top to bottom in the same order as on the Pedal. 
          3. Leave space between each label so we can connect the connector without covering the label.
-         4. Example: ![Cardboard1]("/img/cardboard label 1.jpg")
+         4. Example: ![Cardboard1](/img/cardboard1.jpg)
       4. unscrew the two sides of the connectors one by one.
          1. Tape each connector to the label on the cardboard.
          2. Make sure one side of the connector can touch the other.
-         3. Example: ![Cardboard2]("/img/cardboard label 2.jpg")
+         3. Example: ![Cardboard2](/img/cardboard2.jpg)
          4. Keep the screws in one place so you don't lose them. They are M3 screws, just in case you lose one.
       5. Staple or twist metal wires on both sides so they connect.
-         1. Example: ![Cardboard3]("/img/cardboard label 3.jpg")
+         1. Example: ![Cardboard3](/img/cardboard3.jpg)
       6. Make a copy of the file from here: [Pedal Tune google sheets Template](https://docs.google.com/spreadsheets/d/1ouTLbtZo-gkmOsDZUQalfS_RvJQIARuTajHyPTTipL0/edit?usp=sharing)
          1. Name the file with the format of: Discord_name-Car_Year-Car_Make-Car_Model
             1. Example: tinybear-2019-Toyota-sienna

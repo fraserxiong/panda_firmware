@@ -41,7 +41,7 @@ Tip: You might need help from a friend or family to press the Pedal when taking 
       3. You only need to connect the comma pedal. No comma device is needed.
    2. Firmware flashing:
       1. Follow this video guide to flash your Pedal: [Flash Pedal in DFU mode](https://youtu.be/DNf0OGwXUUQ)
-      2. You can find the firmware in this repo OR here: [Pedal firmware for tuning](https://github.com/fraserxiong/panda_firmware/tree/Pedal_tune)
+      2. You can find the firmware in this repo OR here: [Pedal firmware for tuning](https://github.com/fraserxiong/panda_firmware/tree/Pedal_tune/Firmware)
       3. The order of firmware flashed does not matter. Here is the list of firmware:
          1. Base (Base value)
          2. Base100 (Base value + 100)

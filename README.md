@@ -6,7 +6,7 @@ Tip: You might need help from a friend or family to press the Pedal when taking 
 ## Data Gathering
 1. Mesure the baseline voltage without a pedal. You can use the connector in the Pedal and expose the connection for probing.
    1. Preparation:
-      1. If you are not comfortable with opening the case of the Pedal, You can find a spare pair connector here: [Spare plain connector](https://shop.tlbb.ca/products/copy-of-connectors-for-honda-toyota-gm-vw-plain-connector)
+      1. If you are not comfortable with opening the case of the Pedal, You can find a spare pair connector here (I can waive your shipping for pedal tuning, pls contact me on Discord): [Spare plain connector](https://shop.tlbb.ca/products/copy-of-connectors-for-honda-toyota-gm-vw-plain-connector)
       2. Cut the zip ties on the Pedal and open the case.
       3. Prepare a piece of cardboard, a pen, a stapler or metal wires and a roll of tape.
          1. You will see the label on the pedal PCB board in the middle of two sides of the connector. 
@@ -37,7 +37,7 @@ Tip: You might need help from a friend or family to press the Pedal when taking 
          1. If you unscrew the two sides of the connectors, screw in the connectors in the order you have on the cardboard. 
          2. If you messed up the order, you can always ask me on Discord for the connection order.
          3. You will find the number label on each wire on the connector and the letter label on the Pedal PCB board. The connection order matches the number to the letter.
-      2. You need a DFU key to flash the firmware. You can find it here: [DFU key](https://shop.tlbb.ca/products/dfu-key)
+      2. You need a DFU key to flash the firmware. You can find it here (I can waive your shipping for pedal tuning, pls contact me on Discord): [DFU key](https://shop.tlbb.ca/products/dfu-key)
       3. You only need to connect the comma pedal. No comma device is needed.
    2. Firmware flashing:
       1. Follow this video guide to flash your Pedal: [Flash Pedal in DFU mode](https://youtu.be/DNf0OGwXUUQ)

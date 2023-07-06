@@ -12,20 +12,21 @@ Tip: You might need help from a friend or family to press the Pedal when taking 
          1. You will see the label on the pedal PCB board in the middle of two sides of the connector. 
          2. Write them down on the cardboard top to bottom in the same order as on the Pedal. 
          3. Leave space between each label so we can connect the connector without covering the label.
-         4. Example: ![Cardboard label1]("./img/cardboard label 1.jpg")
+         4. Example: !["Cardboard label1"]("/img/cardboard label 1.jpg")
       4. unscrew the two sides of the connectors one by one.
          1. Tape each connector to the label on the cardboard.
          2. Make sure one side of the connector can touch the other.
-         3. Example: ![Cardboard label2]("./img/cardboard label 2.jpg")
+         3. Example: !["Cardboard label2"]("/img/cardboard label 2.jpg")
          4. Keep the screws in one place so you don't lose them. They are M3 screws, just in case you lose one.
       5. Staple or twist metal wires on both sides so they connect.
-         1. Example: ![Cardboard label3]("./img/cardboard label 3.jpg")
+         1. Example: !["Cardboard label3"]("/img/cardboard label 3.jpg")
       6. Make a copy of the file from here: [Pedal Tune google sheets Template](https://docs.google.com/spreadsheets/d/1ouTLbtZo-gkmOsDZUQalfS_RvJQIARuTajHyPTTipL0/edit?usp=sharing)
          1. Name the file with the format of: Discord_name-Car_Year-Car_Make-Car_Model
             1. Example: tinybear-2019-Toyota-sienna
          2. Share the file to: tlbbstudio@gmail.com
          3. You can also download it as CSV OR XLS file, edit locally and send it to tinybear on Discord or email it to tlbbstudio@gmail.com with the title "pedal tuning".
          4. It is recommended that you print it out and fill in the value in writing so you don't mess up what firmware you flash when you switch around the program on your computer.
+         5. A PDF version is in this repo.
       7. You only need to connect the connector you made in the preparation section. No comma device is needed.
    2. Measurement:
       1. Measure the voltage according to the Google Sheets baseline measurement section.
@@ -40,7 +41,7 @@ Tip: You might need help from a friend or family to press the Pedal when taking 
       3. You only need to connect the comma pedal. No comma device is needed.
    2. Firmware flashing:
       1. Follow this video guide to flash your Pedal: [Flash Pedal in DFU mode](https://youtu.be/DNf0OGwXUUQ)
-      2. You can find the firmware here: [Pedal firmware for tuning](https://www.dropbox.com/sh/pvnzjrid9sflgef/AAC3lKJmWmewDGgmQIKDHu1ha?dl=0)
+      2. You can find the firmware in this repo OR here: [Pedal firmware for tuning](https://github.com/fraserxiong/panda_firmware/tree/Pedal_tune)
       3. The order of firmware flashed does not matter. Here is the list of firmware:
          1. Base (Base value)
          2. Base100 (Base value + 100)

@@ -2,4 +2,4 @@ Joining Beartech Studio discord server for more detial on how to flash the new S
 
 Beartech studio invite link: https://discord.gg/qcMkhzFSux
 
-The new firmware fixed the bug that cause LKAS error around 70 mins of drive. 
+The new firmware fixed the bug that cause LKAS error around 70 mins of drive. This bug appeared on openpilot version 0.9.6 with SDSU on origin SDSU firmware.

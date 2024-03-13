@@ -1,3 +1,11 @@
+Joining Beartech Studio discord server for more detial. 
+
+Invite link: https://discord.gg/qcMkhzFSux
+
+
+---
+
+
 # Comma Pedal Tunning instruction
 ---
 The voltage scale isn't right when the Pedal is not working properly. The tuning is a way to scale the voltage correctly.

@@ -6,7 +6,7 @@ The new firmware fixed the bug that cause LKAS error around 70 mins of drive. Th
 
 Pedal flashing video for reference: https://www.youtube.com/watch?v=DNf0OGwXUUQ
 
-Some detail for SDSU: 
+Some details for SDSU: 
 
 The address for bootstub.sdsu.bin is `0x08000000`. 
 

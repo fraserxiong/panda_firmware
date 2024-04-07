@@ -1,4 +1,4 @@
-Joining Beartech Studio discord server for more detial on how to flash the new SDSU firmware. 
+Joining Beartech Studio discord server for more detail on how to flash the new SDSU firmware. 
 
 Beartech studio invite link: https://discord.gg/qcMkhzFSux
 
